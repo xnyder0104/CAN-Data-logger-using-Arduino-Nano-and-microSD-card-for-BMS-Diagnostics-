@@ -1,0 +1,2 @@
+# CAN-Data-logger-using-Arduino-Nano-and-microSD-card-for-BMS-Diagnostics-
+Developed a CAN data logger using Arduino Nano, MCP2515, and microSD to capture real-time BMS data for diagnostics. Integrated OLED display, status LEDs, and a control switch to manage logging and provide real-time system feedback. Designed schematic, prototyped on zero PCB, and generated PCB layout and Gerber files for PCB fabrication. 
